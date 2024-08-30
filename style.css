@@ -169,3 +169,17 @@ main {
 .hidden {
   display: none;
 }
+/* 
+header {
+  display: block;
+  font-size: 100px;
+  color: #fff;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.headerimg {
+  width: 300px;
+  height: 300px;
+  border-radius: 25%;
+} */
